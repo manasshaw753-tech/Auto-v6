@@ -5,10 +5,10 @@
   "suspended_devices": ["DEVICE_ID_3"],
   "keys": [
     {
-      "key": "PRK2025ABC",
+      "key": "MANAS-MODS-USER-JAYDEEP",
       "status": "VALID",
-      "device_id": "",
-      "expires": "2025-12-31"
+      "device_id": "31A632330A806754",
+      "expires": "2027-12-31"
     },
     {
       "key": "EXPKEY999",
