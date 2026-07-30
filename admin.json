@@ -18,13 +18,13 @@
     },
     {
       "key": "MANAS-MODS-USER-SUJAN#785",
-      "status": "BANNED",
+      "status": "VALID",
       "device_id": "31A632330A806754",
       "expires": "2027-01-01"
     },
     {
       "key": "MANAS-MODS-USER-AMIT",
-      "status": "SUSPENDED",
+      "status": "VALID",
       "device_id": "63E7AF1C9B45E2E0",
       "expires": "2027-12-31"
     },
