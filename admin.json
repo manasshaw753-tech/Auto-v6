@@ -17,16 +17,16 @@
       "expires": "2027-01-01"
     },
     {
-      "key": "BANKEY111",
+      "key": "MANAS-MODS-USER-SUJAN#785",
       "status": "BANNED",
-      "device_id": "",
-      "expires": ""
+      "device_id": "31A632330A806754",
+      "expires": "2027-01-01"
     },
     {
-      "key": "LOCKKEY555",
+      "key": "MANAS-MODS-USER-AMIT",
       "status": "SUSPENDED",
-      "device_id": "",
-      "expires": "2025-12-31"
+      "device_id": "63E7AF1C9B45E2E0",
+      "expires": "2027-12-31"
     },
     {
       "key": "manas",
