@@ -1,26 +1,38 @@
-[
-  {
-    "device_id": "6edc524fdcd38dda",
-    "key": "pabitra",
-    "expirydate": "31-12-2028",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "0210c57b69f94545",
-    "key": "akash",
-    "expirydate": "15-07-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "8ecb8ef987903ac7",
-    "key": "sagarbhai",
-    "expirydate": "06-08-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "8133CD47FC49796B",
-    "key": "manas",
-    "expirydate": "22-07-2029",
-    "Allowoffline": false
-  }
-]
+{
+  "maintenance": false,
+  "region_blocked": false,
+  "banned_devices": ["DEVICE_ID_1", "DEVICE_ID_2"],
+  "suspended_devices": ["DEVICE_ID_3"],
+  "keys": [
+    {
+      "key": "PRK2025ABC",
+      "status": "VALID",
+      "device_id": "",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "EXPKEY999",
+      "status": "EXPIRED",
+      "device_id": "",
+      "expires": "2024-01-01"
+    },
+    {
+      "key": "BANKEY111",
+      "status": "BANNED",
+      "device_id": "",
+      "expires": ""
+    },
+    {
+      "key": "LOCKKEY555",
+      "status": "SUSPENDED",
+      "device_id": "",
+      "expires": "2025-12-31"
+    },
+    {
+      "key": "DEVKEY777",
+      "status": "VALID",
+      "device_id": "ABCD1234",
+      "expires": "2025-12-31"
+    }
+  ]
+}
