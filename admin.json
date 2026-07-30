@@ -39,6 +39,12 @@
       "status": "VALID",
       "device_id": "20084442179D20C3",
       "expires": "2028-12-31"
+    },
+    {
+      "key": "MANAS-MODS-USER-KILLER#11",
+      "status": "VALID",
+      "device_id": "59AB57E0037740C7",
+      "expires": "2028-12-31"
     }
   ]
 }
