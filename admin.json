@@ -135,6 +135,12 @@
       "status": "VALID",
       "device_id": "1B7EFB288779BA3B",
       "expires": "2026-09-01"
+    },
+    {
+      "key": "MANAS-MODS-USER-TAPAS2",
+      "status": "VALID",
+      "device_id": "775184705DF84DC5",
+      "expires": "2026-08-20"
     }
     
     
