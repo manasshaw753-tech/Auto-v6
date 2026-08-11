@@ -1,4 +1,4 @@
-8{
+{
   "maintenance": false,
   "region_blocked": false,
   "banned_devices": ["DEVICE_ID_1", "DEVICE_ID_2"],
