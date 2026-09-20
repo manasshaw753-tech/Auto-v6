@@ -35,16 +35,16 @@
       "expires": "2029-12-31"
     },
     {
-      "key": "MANAS-MODS-USER-DHUBENDU",
+      "key": "MANAS-MODS-USER-SUJAN",
       "status": "VALID",
-      "device_id": "20084442179D20C3",
-      "expires": "2025-08-09"
+      "device_id": "31A632330A806754",
+      "expires": "2028-10-09"
     },
     {
-      "key": "MANAS-MODS-USER-KILLER#11",
+      "key": "MANAS-MODS-USER-SUJAN2",
       "status": "VALID",
-      "device_id": "59AB57E0037740C7",
-      "expires": "2025-08-16"
+      "device_id": "5C3468922C3D96FB",
+      "expires": "2028-08-16"
     },
     {
       "key": "vipin",
