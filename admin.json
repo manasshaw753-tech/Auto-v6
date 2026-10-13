@@ -80,7 +80,7 @@
       "key": "MANAS-MODS-USER-GONINDA",
       "status": "VALID",
       "device_id": "A2BB8F6B87372D59",
-      "expires": "2024-10-01"
+      "expires": "2026-10-01"
     },
     {
       "key": "MANAS-MODS-USER-KILLER",
@@ -125,10 +125,10 @@
       "expires": "2028-12-31"
     },
     {
-      "key": "MANAS-MODS-USER-ANU",
+      "key": "MUSA",
       "status": "VALID",
-      "device_id": "88D878B53D0F6740",
-      "expires": "2026-10-18"
+      "device_id": "4BE3C1D0C57F1981",
+      "expires": "2027-10-18"
     },
     {
       "key": "MANAS-MODS-USER-KAUSHIK",
