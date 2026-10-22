@@ -8,7 +8,7 @@
       "key": "MANAS-MODS-USER-TAPAS",
       "status": "VALID",
       "device_id": "09A3E1DC62004339",
-      "expires": "2026-11-21"
+      "expires": "2025-11-21"
     },
     {
       "key": "akash",
@@ -50,13 +50,13 @@
       "key": "MANAS-MODS-USER-SAGAR",
       "status": "VALID",
       "device_id": "78F6ECE05FB6C800",
-      "expires": "2026-11-06"
+      "expires": "2024-11-06"
     },
     {
       "key": "MANAS-MODS-USER-SAGAR2",
       "status": "VALID",
       "device_id": "8ECB8EF987903AC7",
-      "expires": "2026-11-06"
+      "expires": "2024-11-06"
     },
     {
       "key": "MANAS-MODS-USER-RAHUL",
@@ -80,7 +80,7 @@
       "key": "MANAS-MODS-USER-GOBINDA",
       "status": "VALID",
       "device_id": "A2BB8F6B87372D59",
-      "expires": "2026-11-04"
+      "expires": "2025-11-04"
     },
     {
       "key": "MANAS-MODS-USER-KILLER",
@@ -92,13 +92,13 @@
       "key": "MANAS-MODS-USER-BISHNU",
       "status": "VALID",
       "device_id": "77777",
-      "expires": "2026-10-12"
+      "expires": "2024-10-12"
     },
     {
       "key": "AUNU",
       "status": "VALID",
       "device_id": "88D878B53D0F6740",
-      "expires": "2027-09-16"
+      "expires": "2024-09-16"
     },
     {
       "key": "SUMAN",
@@ -110,7 +110,7 @@
       "key": "MANAS-MODS-USER-gisu77",
       "status": "VALID",
       "device_id": "3C65ABD14A701356",
-      "expires": "2026-11-06"
+      "expires": "2023-11-06"
     },
     {
       "key": "MANAS-MODS-USER-DIPAK66",
@@ -128,7 +128,7 @@
       "key": "MUSA",
       "status": "VALID",
       "device_id": "4BE3C1D0C57F1981",
-      "expires": "2027-10-18"
+      "expires": "2023-10-18"
     },
     {
       "key": "MANAS-MODS-USER-KAUSHIK",
@@ -146,7 +146,7 @@
       "key": "MUSA",
       "status": "VALID",
       "device_id": "4BE3C1D0C57F1981",
-      "expires": "2027-08-20"
+      "expires": "2024-08-20"
     },
     {
       "key": "piu",
