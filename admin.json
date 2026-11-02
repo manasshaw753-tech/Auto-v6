@@ -1,4 +1,4 @@
-{
+.{
   "maintenance": false,
   "region_blocked": false,
   "banned_devices": ["DEVICE_ID_1", "DEVICE_ID_2"],
@@ -101,7 +101,7 @@
       "expires": "2024-09-16"
     },
     {
-      "key": "SUMAN",
+      "key": "PAUL",
       "status": "VALID",
       "device_id": "81DE9F26F16CA6E6",
       "expires": "2027-10-25"
